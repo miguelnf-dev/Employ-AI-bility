@@ -7,4 +7,4 @@ pypdf
 sentence-transformers>=3.0.0
 langchain-groq
 protobuf==3.20.3
-
+pysqlite3-binary

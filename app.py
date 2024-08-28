@@ -1,3 +1,7 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 import os
 import streamlit as st
 from dotenv import load_dotenv
@@ -11,7 +15,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
-from PIL import Image
+
 
 # Load environment variables
 load_dotenv()
