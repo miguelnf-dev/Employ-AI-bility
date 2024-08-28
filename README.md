@@ -2,8 +2,14 @@
 
 Welcome to **Employ-AI-bility** – a super cool and interactive way to chat with my CV! 🚀
 
+You can try it here : https://miguelfernandescv.streamlit.app/
+
+![Chatbot Interface](images/chatbot.png)
+
 ## What is this?
 This is a Streamlit app that turns my CV into a chatbot. Yes, you heard it right! You can ask questions about my experience, skills, and projects, and get instant answers as if you're talking to me (Miguel Fernandes) directly. It's powered by cutting-edge AI tech like LangChain, HuggingFace embeddings, and more.
+
+
 
 ## Features
 - **Chat with My CV**: Ask anything about my professional journey, and the bot will respond as if it's me. 
