@@ -40,4 +40,4 @@ streamlit run app.py
 
 ## About Me
 I'm Mig...
-Enjoy chatting with my CV! 😄
+just kidding :) visit my website at https://miguelfernandescv.streamlit.app/
